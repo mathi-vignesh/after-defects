@@ -1,4 +1,4 @@
-# AE Downgrader
+# After Defects
 
 A web tool to downgrade After Effects project files (`.aep`) and effect presets (`.ffx`) from newer versions to older ones.
 
