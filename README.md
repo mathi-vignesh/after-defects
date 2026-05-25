@@ -1,4 +1,4 @@
-# After Defects
+# After Defects - An After Effects Project File (.pjf) & Animation Preset (.ffx) Downgrader
 
 A web tool to downgrade After Effects project files (`.aep`) and effect presets (`.ffx`) from newer versions to older ones.
 
