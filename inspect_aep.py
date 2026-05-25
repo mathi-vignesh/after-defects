@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 """
 AEP/FFX Inspector — reverse engineering tool
 Run this on a real .aep file to see the exact binary structure.
